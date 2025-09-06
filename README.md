@@ -11,7 +11,7 @@ The testing covers main features available on the Starbucks website, including:
 - Product Customization (Size, Milk, Syrup, Toppings, etc)  
 - Rewards (Join Rewards, Benefits)  
 - eGift  
-- Order & Pickup (Delivery, Drive-Thru, In-Store)  
+- Order & Pickup (Delivery, Drive-Thru, Pickup)  
 - Store Locator  
 - About Starbucks (Coffee & Craft, People & Impact, News Stories)
 
